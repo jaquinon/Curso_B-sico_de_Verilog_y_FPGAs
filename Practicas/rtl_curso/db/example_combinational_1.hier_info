@@ -1,0 +1,9 @@
+|example_combinational_1
+a => y.IN0
+a => x.IN0
+b => y.IN1
+b => x.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+x <= x.DB_MAX_OUTPUT_PORT_TYPE
+
+

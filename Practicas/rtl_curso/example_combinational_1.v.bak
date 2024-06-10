@@ -1,0 +1,15 @@
+module example_combinational_1(input wire a, input wire b, output reg y,output reg x);
+    assign y = a & b;
+	 assign x = a ^ b;
+endmodule
+
+
+
+module mux_2to1(input wire sel, input wire [7:0] a, input wire [7:0] b, output reg [7:0] y);
+    always @* begin
+        if (sel)
+            y = a;
+        else
+            y = b;
+    end
+endmodule

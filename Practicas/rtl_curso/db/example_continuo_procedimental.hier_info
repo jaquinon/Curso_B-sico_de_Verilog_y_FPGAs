@@ -1,0 +1,6 @@
+|example_continuo_procedimental
+a => always0.IN0
+b => always0.IN1
+y <= always0.DB_MAX_OUTPUT_PORT_TYPE
+
+

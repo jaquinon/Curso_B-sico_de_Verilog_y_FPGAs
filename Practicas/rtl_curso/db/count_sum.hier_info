@@ -1,0 +1,6 @@
+|count_sum
+a => ~NO_FANOUT~
+b => ~NO_FANOUT~
+y <= <GND>
+
+

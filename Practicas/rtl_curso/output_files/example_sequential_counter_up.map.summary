@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Jun  9 23:20:26 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Standard Edition
+Revision Name : example_sequential_counter_up
+Top-level Entity Name : example_sequential_counter_up
+Family : MAX 10
+Total logic elements : 4
+    Total combinational functions : 4
+    Dedicated logic registers : 4
+Total registers : 4
+Total pins : 6
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

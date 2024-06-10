@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Jun  9 23:23:33 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Standard Edition
+Revision Name : example_sequential_shift_register
+Top-level Entity Name : example_sequential_shift_register
+Family : MAX 10
+Total logic elements : 8
+    Total combinational functions : 0
+    Dedicated logic registers : 8
+Total registers : 8
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
